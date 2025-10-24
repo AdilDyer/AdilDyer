@@ -1,22 +1,53 @@
-❤️1st Year Bachelor ( B. tech ),MERN (MongoDB ExpressJS ReactJS NodeJS ), NextJs, Full Stack Web developer, Typescript, Syntactically Awesome Stylesheets(Sass) Css, Advanced Css, 
-Javascript, CPP, Cloud Hosting, Operating Systems and 
-Database management System and Git with Github, 
-Unit and Integrated Testing using Jest , E2E Testing 
-using Cypress, Authentication using Passport etc. 
-Decent skills of Data structures and algorithms using CPP. 
+👋 Hello, I’m Adil Dyer – an aspiring Cybersecurity & Computer Science Enthusiast, Full-Stack Developer, and Tech Innovator currently pursuing B.Tech at National Forensic Sciences University (NFSU).
 
-● Made Nfsu’s Scsdf’s Placement Cell’s Website, Made 
-IEEE NFSU Student Branch’s Website, Student Welfare Club's and 
-more College’s Departments Specific Websites as a lead Web Developer.
+🚀 What Drives Me? :: 
 
-● Worked with various Client and NGOs for their 
-Website in Gandhinagar, Jodhpur and Pune. 
+🔥 Projects & Leadership
+🎯Placement Cell Portal of NFSU
+📚https://placementcellnfsu.onrender.com/
+🎯AI/ML-Based Governance Module Under CM Dashboard Team, Gujrat | Internship at NFSU
+🎯Student Welfare Committee Web Portal
+📚https://swcnfsu.vercel.app/
+🎯NFSU Forensics of Medico-Legal 3D Models Online Learning Platform
+📚https://github.com/AdilDyer/smls3dmodel
+🎯IEEE Student Chapter NFSU Web Portal
+📚https://ieeenfsu.vercel.app/
+🎯Qbon: Question Bank of NFSU
+📚https://qbon.vercel.app/
+🎯Blue Fox: Web Portal
+📚https://bluefoxjodhpur.onrender.com/
+🎯Safe Bite: Digital Presence
+📚https://safebitepune.onrender.com/
+🎯Book Plus Meaning: Tool for Readers
+📚https://bookplusmeaningfe.onrender.com/
+🎯 Building Ghumakkadi – A Travel & Community Platform | Vocal-for-local
+Exploring more Projects ✨
 
-● Made 10+ Projects relating Web 
-development applications ( uploaded on 
-linkedin and GitHub and X and Insta). 
-Decent skills in Communication, Public Speaking and Integrated teamwork.
+🌟Community & Beyond
+🔹Core Team Member of The National Service Scheme (NSS), NFSU
+🔹Core Team Member of The Google Developer Group, NFSU
+🔹Core Team Member of The AI/ML Club, NFSU
+🔹Core Team Member of The Student Welfare Committee, NFSU
+🔹Core Team Member of The Placement Cell, SCSDF, NFSU
+🔹Core Team Member of The Self Study Club, SWC, NFSU
+🔹Core Team Member of IEEE Student Chapter, NFSU
+🔹Core Team Member of The Self Study Club, SWC, NFSU
+🔹 YouTube Content Creator – Uploading about me in tech and tech in me!
+https://www.youtube.com/@AdilDyerNFSU
 
-●Closely love and learn Great Designs and Craftsmanship among Tech and Literature.
+🎤Hackathons, Conferences & Events
+♦️Represented NSS NFSU at BIMSTEC Youth Summit.
+♦️Represented BookMyShow at Coldplay India Tour, Ahmedabad.
+♦️Participated and Awardee for ECell NFSU Startup showdown Idea Presentation.
+♦️Participated and selected in Top 30 out of 700+ submissions at BRICS Entrepreneurship Event.
+♦️Participated in Vibrant Gujrat hackathon for Ration monitoring based system.
+♦️Participated Criminology E Cinema Competition at NFSU as co-actor.
+♦️Participated in Debating Competitions at NIFT Kautuk, Hindi Pakhwada NFSU etc.
+♦️Participated as Anchor role for various NFSU hosted events.
+♦️Participated in Smart India Hackathon – Ministry of AYUSH.
+♦️Participated as Lead in Government School’s Cyber Awareness Drive in October, 2024 from NFSU
+♦️Bookworm, Writer, Wanderlust, French learner.
 
+📩 I MEAN IT WHEN I SAY : Let’s Connect & Innovate!🚀
+Deeply love learning Great Designs and Craftsmanship among Tech and Literature.
 Loves to Support and Connect with the Tech and Arts community.❤️
